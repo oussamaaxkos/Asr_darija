@@ -3,7 +3,7 @@ datasets
 accelerate
 soundfile
 librosa
-
+jiwer
 tqdm
 huggingface_hub
 qwen_asr
